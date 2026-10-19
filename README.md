@@ -16,4 +16,4 @@ Strict mode guarantees the shape of the answer, not that every input got one.
 
 ## 📎 Read Full
 
-[Schema-Valid Is Not Complete: Strict Output Answered 8 of 30](https://dev.to/tegos/PLACEHOLDER)
+[Schema-Valid Is Not Complete: Strict Output Answered 8 of 30](https://dev.to/tegos/schema-valid-is-not-complete-strict-output-answered-8-of-30-8ie)
